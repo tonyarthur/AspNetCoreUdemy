@@ -1,0 +1,10 @@
+D:\cursos\Curso deDOTNET CORE\module2\AspNetCoreUdemy\Hosting\bin\Debug\netcoreapp2.0\Hosting.deps.json
+D:\cursos\Curso deDOTNET CORE\module2\AspNetCoreUdemy\Hosting\bin\Debug\netcoreapp2.0\Hosting.runtimeconfig.json
+D:\cursos\Curso deDOTNET CORE\module2\AspNetCoreUdemy\Hosting\bin\Debug\netcoreapp2.0\Hosting.runtimeconfig.dev.json
+D:\cursos\Curso deDOTNET CORE\module2\AspNetCoreUdemy\Hosting\bin\Debug\netcoreapp2.0\Hosting.dll
+D:\cursos\Curso deDOTNET CORE\module2\AspNetCoreUdemy\Hosting\bin\Debug\netcoreapp2.0\Hosting.pdb
+D:\cursos\Curso deDOTNET CORE\module2\AspNetCoreUdemy\Hosting\obj\Debug\netcoreapp2.0\Hosting.csproj.CoreCompileInputs.cache
+D:\cursos\Curso deDOTNET CORE\module2\AspNetCoreUdemy\Hosting\obj\Debug\netcoreapp2.0\Hosting.AssemblyInfoInputs.cache
+D:\cursos\Curso deDOTNET CORE\module2\AspNetCoreUdemy\Hosting\obj\Debug\netcoreapp2.0\Hosting.AssemblyInfo.cs
+D:\cursos\Curso deDOTNET CORE\module2\AspNetCoreUdemy\Hosting\obj\Debug\netcoreapp2.0\Hosting.dll
+D:\cursos\Curso deDOTNET CORE\module2\AspNetCoreUdemy\Hosting\obj\Debug\netcoreapp2.0\Hosting.pdb
