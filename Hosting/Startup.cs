@@ -25,6 +25,8 @@ namespace Hosting
         public void Configure(IApplicationBuilder app){
             //Criando uma classe personalizada de middleware. 
             app.UseMiddleware<MyMiddleware>();
+            //Habilitando arquivos estpaticos.
+            app.UseStaticFiles();
 
             //Lendo a ApplicationName do arquivo de configuração app.settings.json
             var applicationName = _configuration.GetValue<string>("ApplicationName");
